@@ -1,0 +1,47 @@
+Assignment
+Question 1: Even or Odd using Function
+Write a Python program that defines a function named check_even_odd(num).
+The function should return whether the given number is even or odd.
+Take a number as input from the user, call the function, and print the result.
+
+Question 2: Sum of First N Numbers
+Write a Python program that takes an integer n as input from the user.
+Use a loop to calculate the sum of numbers from 1 to n.
+Print the final sum.
+
+Question 3: List Operations
+Write a Python program that creates a list of 5 numbers.
+Add a new number to the list.
+Remove one number from the list.
+Print the updated list.
+Print the maximum and minimum values in the list.
+
+Question 4: Student Marks Dictionary
+Write a Python program that creates a dictionary with student names as keys and their marks as values.
+Print the name of the student who scored the highest marks.
+Add a new student with marks to the dictionary.
+Print the updated dictionary.
+
+Question 5: Remove Duplicates using Set
+Write a Python program that creates a list containing duplicate values.
+Convert the list into a set.
+Print the unique values.
+
+Question 6: Tuple
+Write a Python program that creates a tuple with 5 numbers.
+Try to change one value in the tuple.
+Observe what happens and write a comment explaining the result.
+
+Question 7: Index Error Handling
+Write a Python program that creates a list with 3 elements.
+Try to access the 5th element of the list.
+Handle the error properly using try and except.
+Print a suitable error message.
+
+Question 8: Simple Data Analysis
+Write a Python program that creates a list of 10 numbers.
+Write three separate functions:
+One function to calculate the average.
+One function to find the maximum value.
+One function to find the minimum value.
+Call all three functions and print the results clearly.

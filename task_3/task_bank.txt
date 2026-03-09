@@ -1,0 +1,8 @@
+
+Make a bank with 2 types of account 
+i) savings account 
+ii) Current account 
+The current account has an overdraft limit which is like credit amount think If you dont have amount in your current account but still you can make transaction till the overdraft limit reaches give overdraft limit different for different accounts
+
+The key ideology is Inheritance
+Withdrawal and Deposit can be in parent class.

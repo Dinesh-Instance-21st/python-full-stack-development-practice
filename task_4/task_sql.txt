@@ -1,0 +1,3 @@
+create 3 different databases and multiple tables in each database in MySQL
+
+For example DB is vehicles then tables would be cars, bikes, ...
