@@ -1,0 +1,13 @@
+Task : Implement a while True loop to keep the application active.
+Present a menu-driven interface to the user with the following options:
+
+1. Check Balance
+2. Credit Amount
+3. Debit Amount
+4. Exit
+
+Termination: The loop must only terminate when the user selects the "Exit" option (Choice 4).
+
+Expected Behavior : 
+Input Handling: The program must handle user choices (1-4). If an undefined choice is entered, the system should prompt "Invalid choice" and restart the loop.
+Data Integrity: Users should not be able to debit more than their current balance.
